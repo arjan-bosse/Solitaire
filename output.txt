@@ -1,0 +1,299 @@
+Phase 1: full search from 32 to 21.
+Hash table 10% full.
+Hash table 20% full.
+Hash table 30% full.
+Hash table 40% full.
+Phase 2: traversal from 21 to 12.
+searching... found.
+Phase 3: locate heading and trailing parts.
+Hash table 10% full.
+Hash table 20% full.
+solution:
+    * * *
+    * * *
+* * * * * * *
+* * * . * * *
+* * * * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    * * *
+    * . *
+* * * . * * *
+* * * * * * *
+* * * * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    * * *
+    * . *
+* * * * . . *
+* * * * * * *
+* * * * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    * * *
+    * * *
+* * * . . . *
+* * * . * * *
+* * * * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    * * *
+    * * *
+* . . * . . *
+* * * . * * *
+* * * * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    * * *
+    * * *
+* . * * . . *
+* * . . * * *
+* * . * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    * * .
+    * * .
+* . * * * . *
+* * . . * * *
+* * . * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    . . *
+    * * .
+* . * * * . *
+* * . . * * *
+* * . * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    . . *
+    * * *
+* . * * . . *
+* * . . . * *
+* * . * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    . . *
+    * * *
+* * * * . . *
+* . . . . * *
+* . . * * * *
+    * * *
+    * * *
+
+<return> to continue...
+    . . *
+    * * *
+* * * * . . *
+* . . . . * *
+* . * . . * *
+    * * *
+    * * *
+
+<return> to continue...
+    . . *
+    . * *
+* * . * . . *
+* . * . . * *
+* . * . . * *
+    * * *
+    * * *
+
+<return> to continue...
+    . . *
+    . * *
+. . * * . . *
+* . * . . * *
+* . * . . * *
+    * * *
+    * * *
+
+<return> to continue...
+    . . .
+    . * .
+. . * * * . *
+* . * . . * *
+* . * . . * *
+    * * *
+    * * *
+
+<return> to continue...
+    . . .
+    . * .
+. . * * * . *
+* . * . . * *
+* . * . * . .
+    * * *
+    * * *
+
+<return> to continue...
+    . . .
+    . * .
+. . * * * . .
+* . * . . * .
+* . * . * . *
+    * * *
+    * * *
+
+<return> to continue...
+    . . .
+    . * .
+. . * * * . .
+* . * . . * .
+* . * * * . *
+    * . *
+    * . *
+
+<return> to continue...
+    . . .
+    . * .
+* . * * * . .
+. . * . . * .
+. . * * * . *
+    * . *
+    * . *
+
+<return> to continue...
+    . . .
+    . * .
+* . * * * . .
+. . * . . * .
+. * . . * . *
+    * . *
+    * . *
+
+<return> to continue...
+    . . .
+    . * .
+* * . . * . .
+. . * . . * .
+. * . . * . *
+    * . *
+    * . *
+
+<return> to continue...
+    . . .
+    . * .
+. . * . * . .
+. . * . . * .
+. * . . * . *
+    * . *
+    * . *
+
+<return> to continue...
+    . . .
+    * * .
+. . . . * . .
+. . . . . * .
+. * . . * . *
+    * . *
+    * . *
+
+<return> to continue...
+    . . .
+    . . *
+. . . . * . .
+. . . . . * .
+. * . . * . *
+    * . *
+    * . *
+
+<return> to continue...
+    . . .
+    . . *
+. . . . * . .
+. . . . . * .
+. * * . * . *
+    . . *
+    . . *
+
+<return> to continue...
+    . . .
+    . . *
+. . . . * . .
+. . . . . * .
+. . . * * . *
+    . . *
+    . . *
+
+<return> to continue...
+    . . .
+    . . *
+. . . . * . .
+. . . . . * .
+. . . . . * *
+    . . *
+    . . *
+
+<return> to continue...
+    . . .
+    . . *
+. . . . * . .
+. . . . . * .
+. . . . * * *
+    . . .
+    . . .
+
+<return> to continue...
+    . . .
+    . . .
+. . . . . . .
+. . . . * * .
+. . . . * * *
+    . . .
+    . . .
+
+<return> to continue...
+    . . .
+    . . .
+. . . . . . .
+. . . . . * .
+. . . . . * *
+    . . *
+    . . .
+
+<return> to continue...
+    . . .
+    . . .
+. . . . . . .
+. . . . . * .
+. . . . * . .
+    . . *
+    . . .
+
+<return> to continue...
+    . . .
+    . . .
+. . . . . . .
+. . . . * * .
+. . . . . . .
+    . . .
+    . . .
+
+<return> to continue...
+    . . .
+    . . .
+. . . . . . .
+. . . * . . .
+. . . . . . .
+    . . .
+    . . .
+
+<return> to continue...

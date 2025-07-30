@@ -1,0 +1,1 @@
+cl.exe /W4 /O2 sol.c
